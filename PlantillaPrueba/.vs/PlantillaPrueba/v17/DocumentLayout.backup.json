@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Misha\\source\\repos\\PlantillaPrueba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{641CFBB4-ABA3-430D-9F61-CADBDDD0D0E4}|PlantillaPrueba\\PlantillaPrueba.csproj|c:\\users\\misha\\source\\repos\\plantillaprueba\\plantillaprueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641CFBB4-ABA3-430D-9F61-CADBDDD0D0E4}|PlantillaPrueba\\PlantillaPrueba.csproj|solutionrelative:plantillaprueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641CFBB4-ABA3-430D-9F61-CADBDDD0D0E4}|PlantillaPrueba\\PlantillaPrueba.csproj|c:\\users\\misha\\source\\repos\\plantillaprueba\\plantillaprueba\\models\\banco_guayaquilcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641CFBB4-ABA3-430D-9F61-CADBDDD0D0E4}|PlantillaPrueba\\PlantillaPrueba.csproj|solutionrelative:plantillaprueba\\models\\banco_guayaquilcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641CFBB4-ABA3-430D-9F61-CADBDDD0D0E4}|PlantillaPrueba\\PlantillaPrueba.csproj|c:\\users\\misha\\source\\repos\\plantillaprueba\\plantillaprueba\\models\\asiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641CFBB4-ABA3-430D-9F61-CADBDDD0D0E4}|PlantillaPrueba\\PlantillaPrueba.csproj|solutionrelative:plantillaprueba\\models\\asiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641CFBB4-ABA3-430D-9F61-CADBDDD0D0E4}|PlantillaPrueba\\PlantillaPrueba.csproj|c:\\users\\misha\\source\\repos\\plantillaprueba\\plantillaprueba\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641CFBB4-ABA3-430D-9F61-CADBDDD0D0E4}|PlantillaPrueba\\PlantillaPrueba.csproj|solutionrelative:plantillaprueba\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641CFBB4-ABA3-430D-9F61-CADBDDD0D0E4}|PlantillaPrueba\\PlantillaPrueba.csproj|c:\\users\\misha\\source\\repos\\plantillaprueba\\plantillaprueba\\controllers\\asientoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641CFBB4-ABA3-430D-9F61-CADBDDD0D0E4}|PlantillaPrueba\\PlantillaPrueba.csproj|solutionrelative:plantillaprueba\\controllers\\asientoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641CFBB4-ABA3-430D-9F61-CADBDDD0D0E4}|PlantillaPrueba\\PlantillaPrueba.csproj|c:\\users\\misha\\source\\repos\\plantillaprueba\\plantillaprueba\\models\\cuentascontable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641CFBB4-ABA3-430D-9F61-CADBDDD0D0E4}|PlantillaPrueba\\PlantillaPrueba.csproj|solutionrelative:plantillaprueba\\models\\cuentascontable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641CFBB4-ABA3-430D-9F61-CADBDDD0D0E4}|PlantillaPrueba\\PlantillaPrueba.csproj|c:\\users\\misha\\source\\repos\\plantillaprueba\\plantillaprueba\\models\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641CFBB4-ABA3-430D-9F61-CADBDDD0D0E4}|PlantillaPrueba\\PlantillaPrueba.csproj|solutionrelative:plantillaprueba\\models\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641CFBB4-ABA3-430D-9F61-CADBDDD0D0E4}|PlantillaPrueba\\PlantillaPrueba.csproj|c:\\users\\misha\\source\\repos\\plantillaprueba\\plantillaprueba\\controllers\\cuentascontablescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641CFBB4-ABA3-430D-9F61-CADBDDD0D0E4}|PlantillaPrueba\\PlantillaPrueba.csproj|solutionrelative:plantillaprueba\\controllers\\cuentascontablescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641CFBB4-ABA3-430D-9F61-CADBDDD0D0E4}|PlantillaPrueba\\PlantillaPrueba.csproj|c:\\users\\misha\\source\\repos\\plantillaprueba\\plantillaprueba\\controllers\\departamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641CFBB4-ABA3-430D-9F61-CADBDDD0D0E4}|PlantillaPrueba\\PlantillaPrueba.csproj|solutionrelative:plantillaprueba\\controllers\\departamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641CFBB4-ABA3-430D-9F61-CADBDDD0D0E4}|PlantillaPrueba\\PlantillaPrueba.csproj|c:\\users\\misha\\source\\repos\\plantillaprueba\\plantillaprueba\\controllers\\movimientoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641CFBB4-ABA3-430D-9F61-CADBDDD0D0E4}|PlantillaPrueba\\PlantillaPrueba.csproj|solutionrelative:plantillaprueba\\controllers\\movimientoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641CFBB4-ABA3-430D-9F61-CADBDDD0D0E4}|PlantillaPrueba\\PlantillaPrueba.csproj|c:\\users\\misha\\source\\repos\\plantillaprueba\\plantillaprueba\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{641CFBB4-ABA3-430D-9F61-CADBDDD0D0E4}|PlantillaPrueba\\PlantillaPrueba.csproj|solutionrelative:plantillaprueba\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641CFBB4-ABA3-430D-9F61-CADBDDD0D0E4}|PlantillaPrueba\\PlantillaPrueba.csproj|c:\\users\\misha\\source\\repos\\plantillaprueba\\plantillaprueba\\plantillaprueba.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{641CFBB4-ABA3-430D-9F61-CADBDDD0D0E4}|PlantillaPrueba\\PlantillaPrueba.csproj|solutionrelative:plantillaprueba\\plantillaprueba.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Asiento.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\PlantillaPrueba\\PlantillaPrueba\\Models\\Asiento.cs",
+              "RelativeDocumentMoniker": "PlantillaPrueba\\Models\\Asiento.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\PlantillaPrueba\\PlantillaPrueba\\Models\\Asiento.cs",
+              "RelativeToolTip": "PlantillaPrueba\\Models\\Asiento.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T01:26:23.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartamentosController.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\PlantillaPrueba\\PlantillaPrueba\\Controllers\\DepartamentosController.cs",
+              "RelativeDocumentMoniker": "PlantillaPrueba\\Controllers\\DepartamentosController.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\PlantillaPrueba\\PlantillaPrueba\\Controllers\\DepartamentosController.cs",
+              "RelativeToolTip": "PlantillaPrueba\\Controllers\\DepartamentosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T01:25:50.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CuentasContablesController.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\PlantillaPrueba\\PlantillaPrueba\\Controllers\\CuentasContablesController.cs",
+              "RelativeDocumentMoniker": "PlantillaPrueba\\Controllers\\CuentasContablesController.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\PlantillaPrueba\\PlantillaPrueba\\Controllers\\CuentasContablesController.cs",
+              "RelativeToolTip": "PlantillaPrueba\\Controllers\\CuentasContablesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T01:25:24.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AsientosController.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\PlantillaPrueba\\PlantillaPrueba\\Controllers\\AsientosController.cs",
+              "RelativeDocumentMoniker": "PlantillaPrueba\\Controllers\\AsientosController.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\PlantillaPrueba\\PlantillaPrueba\\Controllers\\AsientosController.cs",
+              "RelativeToolTip": "PlantillaPrueba\\Controllers\\AsientosController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwFkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T01:24:56.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\PlantillaPrueba\\PlantillaPrueba\\appsettings.json",
+              "RelativeDocumentMoniker": "PlantillaPrueba\\appsettings.json",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\PlantillaPrueba\\PlantillaPrueba\\appsettings.json",
+              "RelativeToolTip": "PlantillaPrueba\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T01:18:54.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "banco_guayaquilContext.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\PlantillaPrueba\\PlantillaPrueba\\Models\\banco_guayaquilContext.cs",
+              "RelativeDocumentMoniker": "PlantillaPrueba\\Models\\banco_guayaquilContext.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\PlantillaPrueba\\PlantillaPrueba\\Models\\banco_guayaquilContext.cs",
+              "RelativeToolTip": "PlantillaPrueba\\Models\\banco_guayaquilContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T01:18:25.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CuentasContable.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\PlantillaPrueba\\PlantillaPrueba\\Models\\CuentasContable.cs",
+              "RelativeDocumentMoniker": "PlantillaPrueba\\Models\\CuentasContable.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\PlantillaPrueba\\PlantillaPrueba\\Models\\CuentasContable.cs",
+              "RelativeToolTip": "PlantillaPrueba\\Models\\CuentasContable.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T01:26:52.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\PlantillaPrueba\\PlantillaPrueba\\Program.cs",
+              "RelativeDocumentMoniker": "PlantillaPrueba\\Program.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\PlantillaPrueba\\PlantillaPrueba\\Program.cs",
+              "RelativeToolTip": "PlantillaPrueba\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T01:12:33.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\PlantillaPrueba\\PlantillaPrueba\\Models\\Departamento.cs",
+              "RelativeDocumentMoniker": "PlantillaPrueba\\Models\\Departamento.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\PlantillaPrueba\\PlantillaPrueba\\Models\\Departamento.cs",
+              "RelativeToolTip": "PlantillaPrueba\\Models\\Departamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T01:26:51.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MovimientosController.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\PlantillaPrueba\\PlantillaPrueba\\Controllers\\MovimientosController.cs",
+              "RelativeDocumentMoniker": "PlantillaPrueba\\Controllers\\MovimientosController.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\PlantillaPrueba\\PlantillaPrueba\\Controllers\\MovimientosController.cs",
+              "RelativeToolTip": "PlantillaPrueba\\Controllers\\MovimientosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T01:26:13.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Movimiento.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\PlantillaPrueba\\PlantillaPrueba\\Models\\Movimiento.cs",
+              "RelativeDocumentMoniker": "PlantillaPrueba\\Models\\Movimiento.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\PlantillaPrueba\\PlantillaPrueba\\Models\\Movimiento.cs",
+              "RelativeToolTip": "PlantillaPrueba\\Models\\Movimiento.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T01:27:26.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlantillaPrueba",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\repos\\PlantillaPrueba\\PlantillaPrueba\\PlantillaPrueba.csproj",
+              "RelativeDocumentMoniker": "PlantillaPrueba\\PlantillaPrueba.csproj",
+              "ToolTip": "C:\\Users\\Misha\\source\\repos\\PlantillaPrueba\\PlantillaPrueba\\PlantillaPrueba.csproj",
+              "RelativeToolTip": "PlantillaPrueba\\PlantillaPrueba.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-16T01:12:55.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
